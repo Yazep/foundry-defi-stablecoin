@@ -28,7 +28,7 @@ I would like to express my gratitude to Patrick Collins for his invaluable guide
 
 ### Further Information
 
-For more details on the specific lessons and guides followed for this project, please refer to Patrick Collins' GitHub repository:
+For more details on the specific lessons and guides followed for this project, please refer to Patrick Collins' GitHub repository.
 
 ---
 
